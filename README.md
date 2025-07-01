@@ -15,6 +15,12 @@
 
 ---
 
+🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikat455&show_icons=true&theme=radical&border_radius=15&hide=prs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikat455&theme=radical&hide_border=true" width="48%" />
+</p>
+
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Programming Languages
