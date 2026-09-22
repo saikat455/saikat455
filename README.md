@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abu Sayed!
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+💻;.NET+Developer+🚀;Learning+%26+Growing+🧩)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Programmer+💻;.NET+Developer+🚀;Learning+%26+Growing+🧩)
 </div>
 
 ## 🌟 About Me
