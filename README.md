@@ -5,7 +5,7 @@
 </div>
 
 ## 🌟 About Me
-🎯 **Junior Software Engineer** at **Genuine Technology and Research Ltd**  
+🎯 **Junior Programmer** at **Genuine Technology and Research Ltd**  
 🏠 Based in **Dhaka, Bangladesh** 🇧🇩  
 🎓 **Computer Science Graduate** from **Independent University, Bangladesh**  
 💡 Focused on building **web applications** with **.NET** and **JavaScript**
